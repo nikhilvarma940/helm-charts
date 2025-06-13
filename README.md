@@ -3,7 +3,6 @@
 ![Release Charts](https://github.com/nikhilvarma940/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main) [![Releases downloads](https://img.shields.io/github/downloads/nikhilvarma940/helm-charts/total.svg)](https://github.com/nikhilvarma940/helm-charts/releases)
 
 ## Usage
-
 [Helm](https://helm.sh) must be installed to use the charts.
 Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 

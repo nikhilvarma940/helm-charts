@@ -17,5 +17,3 @@ You can then run `helm search repo community-charts` to see the charts.
 ## Helm charts build status
 
 ![Release Charts](https://github.com/nikhilvarma940/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main)
-
-test

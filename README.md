@@ -1,6 +1,6 @@
 # Helm Charts
 
-![Release Charts](https://github.com/prometheus-community/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main) [![Releases downloads](https://img.shields.io/github/downloads/prometheus-community/helm-charts/total.svg)](https://github.com/prometheus-community/helm-charts/releases)
+![Release Charts](https://github.com/nikhilvarma940/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main) [![Releases downloads](https://img.shields.io/github/downloads/nikhilvarma940/helm-charts/total.svg)](https://github.com/nikhilvarma940/helm-charts/releases)
 
 ## Usage
 
@@ -17,4 +17,4 @@ You can then run `helm search repo community-charts` to see the charts.
 
 ## Helm charts build status
 
-![Release Charts](https://github.com/prometheus-community/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main)
+![Release Charts](https://github.com/nikhilvarma940/helm-charts/actions/workflows/release.yaml/badge.svg?branch=main)
